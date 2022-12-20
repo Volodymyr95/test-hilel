@@ -16,6 +16,7 @@ public class MainHW10 {
             stringArr1 += " " + (arr1[i] = random.nextInt(10));
             stringArr2 += " " + (arr2[i] = random.nextInt(10));
         }
+
         System.out.println(stringArr1);
         System.out.println(stringArr2);
 
